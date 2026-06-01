@@ -12,6 +12,15 @@ See: [LICENSE.txt](LICENSE.txt)
 - code: LGPL 3.0
 - media: CC BY-SA 4.0
 
+# Links
+
+- [ContentDB](https://content.luanti.org/packages/AntumDeluge/currency/)
+- Git repos:
+    - [Codeberg](https://codeberg.org/AntumLuanti/mod-currency)
+    - [GitHub](https://github.com/AntumMT/mod-currency)
+    - [GitLab](https://gitlab.com/AntumMT/mod-currency)
+- [Changelog](changelog.txt)
+
 # Similar Mods
 
 - [![bitchange](https://img.shields.io/static/v1?label=BitChange&message=by%20Krock&color=%23375a7f&logo=luanti)](https://content.luanti.org/packages/Krock/bitchange/)
