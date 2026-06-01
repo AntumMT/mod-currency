@@ -1,7 +1,7 @@
 {
 	"type": "MOD",
 	"title": "Minimalist Currency",
-	"name": "currency",
+	"name": "minimalist_currency",
 	"short_description": "Minimalist fork of currency mod that only provides \"minegeld\".",
 	"dev_state": "ACTIVELY_DEVELOPED",
 	"ai_disclosure": "NONE",
