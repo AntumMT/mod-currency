@@ -1,32 +1,3 @@
-if core.get_modpath("default") then
-	core.register_craft({
-		output = "currency:safe",
-		recipe = {
-			{"default:steel_ingot", "default:steel_ingot",
-				"default:steel_ingot"},
-			{"default:steel_ingot", "default:mese_crystal",
-				"default:steel_ingot"},
-			{"default:steel_ingot", "default:steel_ingot",
-				"default:steel_ingot"},
-		}
-	})
-
-	core.register_craft({
-		output = "currency:shop",
-		recipe = {
-			{"default:sign_wall"},
-			{"default:chest_locked"},
-		}
-	})
-
-	core.register_craft({
-		output = "currency:barter",
-		recipe = {
-			{"default:sign_wall"},
-			{"default:chest"},
-		}
-	})
-end
 
 core.register_craft({
 	type = "shapeless",
