@@ -1,0 +1,8 @@
+
+2026-05-31
+==========
+- forked minimalist version
+  - removed barter table
+  - removed safe
+  - removed shop
+  - removed random income from mining
