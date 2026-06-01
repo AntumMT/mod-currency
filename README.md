@@ -4,7 +4,7 @@ Minimalist Currency
 # Description
 
 A minimalist fork of the [`currency` mod][currency] for [Luanti] that only provides minegeld notes
-&amp; coins.
+&amp; coins. Works as a drop-in replacement if only the craft items are wanted for server.
 
 # Licensing
 
