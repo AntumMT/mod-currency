@@ -1,4 +1,9 @@
 
+2026-06-08
+==========
+- fixed for name change to minimalist_currency
+
+
 2026-05-31
 ==========
 - forked minimalist version
