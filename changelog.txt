@@ -2,6 +2,7 @@
 2026-06-08
 ==========
 - fixed for name change to minimalist_currency
+- doesn't load if original currency mod is detected
 
 
 2026-05-31
